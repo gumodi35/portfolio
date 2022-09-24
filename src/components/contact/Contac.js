@@ -1,7 +1,7 @@
 import React from 'react';
-import './About.css';
+import './Contact.css';
 
-const About = () => {
+const Contac = () => {
     return (
         <div>
             
@@ -9,4 +9,4 @@ const About = () => {
     );
 }
 
-export default About;
+export default Contac;

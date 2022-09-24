@@ -1,12 +1,11 @@
 import React from 'react';
-import './About.css';
 
-const About = () => {
+const Nav = () => {
     return (
         <div>
-            
+            Nav
         </div>
     );
 }
 
-export default About;
+export default Nav;

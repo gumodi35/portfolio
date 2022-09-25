@@ -57,7 +57,23 @@ h5 {
 
 h1 {
     font-size: 2.5rem;
+    
 }
+
+h5 span {
+    position:absolute;
+    right:0;
+    width:0;
+    background:#1f1f38;
+    border-left: 1px solid #000;
+    animation: escribir 5s steps(10) infinite alternate;
+}
+
+@keyframes escribir {
+    from { width: 100% }
+    to { width:0 }
+}
+
 
 section {
     margin-top: 8rem;

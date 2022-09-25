@@ -77,6 +77,7 @@ h5 span {
 
 section {
     margin-top: 8rem;
+    height: 100vh;
 }
 
 section > h2,
@@ -128,7 +129,7 @@ a:hover {
 img {
     display: block;
     width: 100%;
-    object-fit: cover;
+    object-fit: scale-down;
 }
 
 /* ================= MEDIA QUERIES (MEDIUM DEVICES) ============ */

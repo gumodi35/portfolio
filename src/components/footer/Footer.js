@@ -7,7 +7,7 @@ import {BsGithub} from 'react-icons/bs';
 const Footer = () => {
     return (
         <footer>
-            <a href="#" className='footer__logo'>DevGMD</a>
+            <a href="https://github.com/gumodi35" className='footer__logo'>DevGMD</a>
 
             <ul className='permalinks'>
                 <li><a href="#">Home</a></li>
@@ -15,14 +15,14 @@ const Footer = () => {
                 <li><a href="#experience">Experiencie</a></li>
                 <li><a href="#services">Services</a></li>
                 <li><a href="#portfolio">Porfolio</a></li>
-                <li><a href="#testimonials">Testimonials</a></li>
+                <li><a href="#testimonios">Testimonials</a></li>
                 <li><a href="#">Contact</a></li>
             </ul>
 
             <div className='footer__socials'>
-                <a href="https://linkeIn.com"><ImLinkedin/></a>
-                <a href="https://Instagram.com"><BsInstagram/></a>
-                <a href="https://gitHub.com"><BsGithub/></a>
+                <a href="https://www.linkedin.com/in/gualbertomondi/"><ImLinkedin/></a>
+                <a href="https://www.instagram.com/gualbertmonti/"><BsInstagram/></a>
+                <a href="https://github.com/gumodi35"><BsGithub/></a>
             </div>
 
             <div className="footer__copyright">

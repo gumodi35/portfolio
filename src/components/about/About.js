@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css';
-import ME from '../../assets/me-about.jpg';
+import ME from '../../assets/me.png';
 import {FaAward} from 'react-icons/fa';
 import {FiUsers} from 'react-icons/fi';
 import {BsFolderPlus} from 'react-icons/bs';
@@ -40,7 +40,7 @@ const About = () => {
                     </article>
                 </div>
 
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make </p>
+                <p>During my apprenticeship, I have carried out projects related to web development, using MERN stack technologies. I know both client-side and server-side application development. </p>
 
                 <a href="#contact" className="btn btn-primary">Let's Talk</a>
 

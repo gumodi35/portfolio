@@ -30,7 +30,7 @@ const Experience = () => {
                         <RiShieldCheckFill className='experience__details-icon' />
                         <div>
                         <h4>JavaScript</h4>
-                        <small className='text-light'>Experinced</small>
+                        <small className='text-light'>Intermediate</small>
                         </div>
                     </article>
                     <article className='experience__details'>
@@ -57,21 +57,21 @@ const Experience = () => {
                         <RiShieldCheckFill className='experience__details-icon' />
                         <div>
                         <h4>Node Js</h4>
-                        <small className='text-light'>Experinced</small>
+                        <small className='text-light'>Intermediate</small>
                         </div>
                     </article>
                     <article className='experience__details'>
                         <RiShieldCheckFill className='experience__details-icon' />
                         <div>
-                        <h4>Mongo DB</h4>
+                        <h4>Express Js</h4>
                         <small className='text-light'>Intermediate</small>
                         </div>
                     </article>
                     <article className='experience__details'>
                         <RiShieldCheckFill className='experience__details-icon'/>
                         <div>
-                        <h4>Python</h4>
-                        <small className='text-light'>Basic</small>
+                        <h4>Next Js</h4>
+                        <small className='text-light'>Intermediate</small>
                         </div>
                     </article>
                     <article className='experience__details'>
@@ -84,8 +84,8 @@ const Experience = () => {
                     <article className='experience__details'>
                         <RiShieldCheckFill className='experience__details-icon'/>
                         <div>
-                        <h4>Next Js</h4>
-                        <small className='text-light'>Intermediate</small>
+                        <h4>Python</h4>
+                        <small className='text-light'>Basic</small>
                         </div>
                     </article>
                 </div>

@@ -1,7 +1,6 @@
 header {
     height: 100vh;
     padding-top: 7rem;
-    overflow: hidden;
 }
 
 .header__container {
@@ -20,6 +19,7 @@ header {
 
 /* ==================== HEADERS SOCIALS ==================== */
 .header__socials {
+    height: auto;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -38,15 +38,13 @@ header {
 
 /* ==================== ME ==================== */
 .me {
-   background: linear-gradient(var(--color-primary), transparent);
+   background: transparent;
    width: 22rem;
-   height: 30rem;
+   height: 100%;
    position: absolute;
    left: calc(50% - 11rem);
    margin-top: 4rem;
    border-radius: 12rem 12rem 0 0; 
-   border: solid 1px red;
-   overflow: hidden;
    padding: 5rem 1.2rem 1.2rem 1.2rem;
 }
 

@@ -17,27 +17,23 @@ const Services = () => {
                     <ul className="service__list">
                         <li>
                             <MdLibraryAddCheck className="service__list-icon" />
-                            <p>Lorem, ipsum sit a met consectetur elit</p>
+                            <p>Web-page Design</p>
                         </li>
                         <li>
                             <MdLibraryAddCheck className="service__list-icon" />
-                            <p>Lorem, ipsum sit a met consectetur elit</p>
+                            <p>Website maintenance and updating</p>
                         </li>
                         <li>
                             <MdLibraryAddCheck className="service__list-icon" />
-                            <p>Lorem, ipsum sit a met consectetur elit</p>
+                            <p>Creation of online stores Ecommerce</p>
                         </li>
                         <li>
                             <MdLibraryAddCheck className="service__list-icon" />
-                            <p>Lorem, ipsum sit a met consectetur elit</p>
+                            <p>Blogging Creation</p>
                         </li>
                         <li>
                             <MdLibraryAddCheck className="service__list-icon" />
-                            <p>Lorem, ipsum sit a met consectetur elit</p>
-                        </li>
-                        <li>
-                            <MdLibraryAddCheck className="service__list-icon" />
-                            <p>Lorem, ipsum sit a met consectetur elit</p>
+                            <p>Website administration</p>
                         </li>
                     </ul>
                 </article>
@@ -51,27 +47,23 @@ const Services = () => {
                     <ul className="service__list">
                         <li>
                             <MdLibraryAddCheck className="service__list-icon" />
-                            <p>Lorem, ipsum sit a met consectetur elit</p>
+                            <p>programming classes</p>
                         </li>
                         <li>
                             <MdLibraryAddCheck className="service__list-icon" />
-                            <p>Lorem, ipsum sit a met consectetur elit</p>
+                            <p>Support in carrying out projects</p>
                         </li>
                         <li>
                             <MdLibraryAddCheck className="service__list-icon" />
-                            <p>Lorem, ipsum sit a met consectetur elit</p>
+                            <p>JavaScript tutorials</p>
                         </li>
                         <li>
                             <MdLibraryAddCheck className="service__list-icon" />
-                            <p>Lorem, ipsum sit a met consectetur elit</p>
+                            <p>HTML tutorials</p>
                         </li>
                         <li>
                             <MdLibraryAddCheck className="service__list-icon" />
-                            <p>Lorem, ipsum sit a met consectetur elit</p>
-                        </li>
-                        <li>
-                            <MdLibraryAddCheck className="service__list-icon" />
-                            <p>Lorem, ipsum sit a met consectetur elit</p>
+                            <p>CSS Tutorials</p>
                         </li>
                     </ul>
                 </article>
@@ -85,27 +77,23 @@ const Services = () => {
                     <ul className="service__list">
                         <li>
                             <MdLibraryAddCheck className="service__list-icon" />
-                            <p>Lorem, ipsum sit a met consectetur elit</p>
+                            <p>Create programming content</p>
                         </li>
                         <li>
                             <MdLibraryAddCheck className="service__list-icon" />
-                            <p>Lorem, ipsum sit a met consectetur elit</p>
+                            <p>Create technology content</p>
                         </li>
                         <li>
                             <MdLibraryAddCheck className="service__list-icon" />
-                            <p>Lorem, ipsum sit a met consectetur elit</p>
+                            <p>Sharing information about Cloud</p>
                         </li>
                         <li>
                             <MdLibraryAddCheck className="service__list-icon" />
-                            <p>Lorem, ipsum sit a met consectetur elit</p>
+                            <p>Share information about Cybersecurity</p>
                         </li>
                         <li>
                             <MdLibraryAddCheck className="service__list-icon" />
-                            <p>Lorem, ipsum sit a met consectetur elit</p>
-                        </li>
-                        <li>
-                            <MdLibraryAddCheck className="service__list-icon" />
-                            <p>Lorem, ipsum sit a met consectetur elit</p>
+                            <p>Video edition</p>
                         </li>
                     </ul>
                 </article>

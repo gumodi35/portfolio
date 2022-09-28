@@ -34,13 +34,13 @@ const Contact = () => {
                         <AiOutlineInstagram className='contact__option-icon' />
                         <h4>Instagram</h4>
                         <h5>Sr.Gualbert</h5>
-                        <a href="https://m.me/gualbertMontiel.achiever" target="_blank">Send a Message</a>
+                        <a href="https://www.instagram.com/gualbertmonti/" target="_blank">Send a Message</a>
                     </article>
                     <article className='contact__option'>
                         <AiOutlineTwitter className='contact__option-icon' />
                         <h4>Twitter</h4>
                         <h5>Sr.Gualbert</h5>
-                        <a href="mailto:gumodi10@gmail.com" target="_blank">Send a Message</a>
+                        <a href="https://twitter.com/SrGualbert" target="_blank">Send a Message</a>
                     </article>
                 </div>
         {/* END OF CONTACT OPTIONS */}
